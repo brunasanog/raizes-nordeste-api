@@ -9,3 +9,5 @@ venv/
 *.egg-info/
 dist/
 .pytest_cache/
+testes/
+testar_*.py
